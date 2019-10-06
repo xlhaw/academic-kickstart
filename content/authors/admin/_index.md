@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Leon Xiao
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
