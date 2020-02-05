@@ -1,5 +1,11 @@
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
+Gibibytes (GiB)	Gigabytes (GB)
+230 bytes	109 bytes
+1,073,741,824 bytes	1,000,000,000 bytes
+1,073,741,824 × 8 bits	1,000,000,000 × 8 bits
+8,589,934,592 bits	8,000,000,000 bits
+
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
 **Academic Kickstart** provides a minimal template to kickstart your new website.
